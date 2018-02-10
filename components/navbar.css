@@ -1,0 +1,21 @@
+.lewagon-navbar {
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 25px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  align-items: center;
+}
+
+.lewagon-navbar img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
